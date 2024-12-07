@@ -1,0 +1,4 @@
+/* This CSS rule attempts to target the pseudo-element ::before, but the selector is malformed because of extra space. */
+.my-element:: before {
+  content: "This text will not show";
+}
