@@ -1,0 +1,3 @@
+.my-element::before {
+  content: "This text will show";
+}
